@@ -84,7 +84,7 @@
     
     <hr>
         
-    <a href="chart1.php" button type="button" class="btn btn-primary btn-md"> Light </a>
+    <a href="chart.php" button type="button" class="btn btn-primary btn-md"> Humidity </a>
     <a href="chart2.php" button type="button" class="btn btn-primary btn-md"> Moisture </a>
     <a href="chart3.php" button type="button" class="btn btn-primary btn-md"> Temperature </a>
 
